@@ -1,4 +1,4 @@
-# 📦 PH - Programming Hero Journey
+# 📦 PH - Programming Hero Journey 
 
 Welcome to my **Programming Hero (PH)** learning journey! This repository contains all the projects, practice tasks, and milestone assignments that I’ve completed while following the **Programming Hero Web Development course**.
 
